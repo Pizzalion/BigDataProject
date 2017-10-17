@@ -1,3 +1,5 @@
+minmini hahahahahah
+
 minjuhui remote branch created 
 
 minjun is idiot haha

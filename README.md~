@@ -1,3 +1,5 @@
+minjuhui remote branch created 
+
 minjun is idiot haha
 hul......
 sunki edit and add now 

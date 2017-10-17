@@ -1,3 +1,4 @@
+minjun is idiot haha
 # BigDataProject
 #
 # git init

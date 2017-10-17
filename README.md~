@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-minmini hahahahahah
-
-minjuhui remote branch created 
-=======
-minjuhee remote branch created 
->>>>>>> 546633ec92982e642f91346806bc6c75ea8a99a3
 
 minjun is idiot haha
 hul......d

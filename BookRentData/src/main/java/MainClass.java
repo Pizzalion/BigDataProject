@@ -7,6 +7,7 @@ public class MainClass {
 		System.out.println("피자피자피자");
 		System.out.println("git in sts seong ryoung");
 		System.out.println("dahey");
+		System.out.println("2017-10-18 PM 11:01");
 	}
 
 }

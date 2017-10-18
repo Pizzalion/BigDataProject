@@ -33,6 +33,12 @@
 		    <artifactId>spring-data-hadoop</artifactId>
 		    <version>2.4.0.RELEASE</version>
 		</dependency>
+		<!-- opencsv -->
+		<dependency>
+    		<groupId>net.sf.opencsv</groupId>
+    		<artifactId>opencsv</artifactId>
+    		<version>2.3</version>
+		</dependency>
 		<!-- spark -->
 <!--
 		<dependency>

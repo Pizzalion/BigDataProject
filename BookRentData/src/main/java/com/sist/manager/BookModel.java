@@ -19,7 +19,7 @@ public class BookModel {
 		BookModel nm = new BookModel();
 		
 //		nm.dao.bookDrop();
-		
+		//준원이자리에서 새로만든 코드 수정/추가시켜야 함
 		
 		String[] groupStart = {"2017-01-01"};//,"2017-02-01","2017-03-01","2017-04-01","2017-05-01","2017-06-01"};
 		String start= "2017-01-01";
